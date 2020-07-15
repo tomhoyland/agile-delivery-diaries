@@ -3,3 +3,4 @@ Maybe this is a book, maybe it's a cookbook for the agile delivery community? In
 ## Who is it for?
 - Anyone interested in building a product, service or delivery team
 - Anyone wanting to improve their agile delivery practices
+- Anyone who want a good yarn on what went well, what didn't and the lessons learned
