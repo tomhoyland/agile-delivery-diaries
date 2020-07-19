@@ -13,7 +13,7 @@ Maybe this is a book, maybe it's a cookbook for the agile delivery community? In
 - You may notice that steps are written in a direct, matter of fact way. They’re meant to be as I don’t have all the time in the world, but in most cases each step has an explanation and rationale. More often than not, steps include metaphors to widen the context of what you’re being asked to do. 
 - You may also find that some steps ask you to do things like collect data, engage with stakeholders or ‘just do stuff’ with little explanation as to why. Don’t worry, it’s written that way and if you follow the steps you’ll find that all those things you collected at the start will end up being useful along your journey. Just like Lord of the Rings, except not set in New Zealand. 
 #### That’s not very ‘coachy’
-Surprise! This isn’t a coach book, it’s not a framework or methodology, but a pattern. 
+- Surprise! This isn’t a coach book, it’s not a framework or methodology, but a pattern. 
 - Some of the steps assumes a coaching stance, some focus on facilitation, others are just down right command and control instructions. 
 - It’s up to you as a professional to decide what stance to take given your context. If you don’t feel comfortable with that approach - now’s the time to bail.
 ### Candid Advice
