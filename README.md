@@ -5,7 +5,7 @@ Maybe this is a book, maybe it's a cookbook for the agile delivery community? In
 - Anyone wanting to improve their agile, DevOps, product development or delivery practices
 - Anyone who wants a good yarn on what went well, what didn't and the lessons learned
 - People with job titles like; Agile Coach, Scrum Master, Delivery Manager, Agile/DevOps/Squad Lead, Release Train Engineer (if you’re into all that SAFe stuff), Head of Delivery etc. 
-### Who it isn’t for
+### Who isn’t it for?
 - Are you a traditional Project Manager? Then stop reading now, this is not for you. Go read a Prince2 manual instead and create a Gantt chart. Only joking, you’ll find some useful things in here too. In some ways it will be very different to the way you’ve been working and in some ways similar.
 ## How is it structured?
 ### A Recipe 
